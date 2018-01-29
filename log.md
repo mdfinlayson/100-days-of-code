@@ -9,20 +9,31 @@
 
 **Link to work:** https://www.freecodecamp.org/challenges/add-images-to-your-website
 
-### Day 0: January 28, 2018
+### Day 2: January 28, 2018
 ##### (delete me or comment me out)
 
-**Today's Progress**: 
+**Today's Progress**: Day 2 #100DaysOfCode working through chapter 9 
+Head First Python, applying context manager class, dunder init, dunder enter, and dunder exit. 
 
 **Thoughts**: 
 
 **Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
+### Day 3: January 29, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Day 3 #100DaysofCode - chapter 10 HF Python on function decorators. 
+Made donation to freeCodeCamp. Working front-end certification at fcc in parallel to python study.
 
 **Thoughts** 
+
+**Link(s) to work**
+
+
+## Day 0: June 27, Monday
+
+**Today's Progress**:
+
+**Thoughts**
 
 **Link(s) to work**
