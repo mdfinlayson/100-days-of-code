@@ -30,7 +30,7 @@ Made donation to freeCodeCamp. Working front-end certification at fcc in paralle
 **Link(s) to work**
 
 
-## Day 0: June 27, Monday
+## Day 0: 
 
 **Today's Progress**:
 
