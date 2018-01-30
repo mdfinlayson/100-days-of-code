@@ -30,6 +30,14 @@ Made donation to freeCodeCamp. Working front-end certification at fcc in paralle
 **Link(s) to work**
 
 
+## Day 4: 
+
+**Today's Progress**: Day 4 #100DaysOfCode - Working in Chapter 10 HF Python. Also working https://www.freecodecamp.org/challenges/create-a-set-of-checkboxes …
+
+**Thoughts** Just gonna keep on keepin on
+ 
+**Link(s) to work**
+
 ## Day 0: 
 
 **Today's Progress**:
