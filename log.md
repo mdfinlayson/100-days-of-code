@@ -30,7 +30,7 @@ Made donation to freeCodeCamp. Working front-end certification at fcc in paralle
 **Link(s) to work**
 
 
-## Day 4: 
+## Day 4: January 30, 2018
 
 **Today's Progress**: Day 4 #100DaysOfCode - Working in Chapter 10 HF Python. Also working https://www.freecodecamp.org/challenges/create-a-set-of-checkboxes …
 
@@ -38,10 +38,10 @@ Made donation to freeCodeCamp. Working front-end certification at fcc in paralle
  
 **Link(s) to work**
 
-## Day 0: 
+## Day 5: January 31, 2018
 
-**Today's Progress**:
+**Today's Progress** Working Chapter 10 HF Python, session login/logout
 
 **Thoughts**
 
-**Link(s) to work**
+**Link(s) to work** https://www.freecodecamp.org/challenges/use-hex-code-for-specific-colors
